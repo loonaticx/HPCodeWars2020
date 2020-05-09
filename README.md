@@ -1,2 +1,2 @@
 # HPCodeWars2020
-# JESuS WHY ERICA
+# JeSuS WhY ErIcA
