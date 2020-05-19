@@ -77,5 +77,6 @@ def get_type(data, line):
     return '{0} is an Unknown series'.format(line)
 
 for line in lines:
-    group = [int(num) for num in line.split()]
-    print(get_type(group, line))
+    if line:
+        group = [int(num) for num in line.split()]
+        print(get_type(group, line))
