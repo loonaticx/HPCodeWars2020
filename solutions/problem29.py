@@ -30,6 +30,9 @@ required_variables = {}
 seen_variables = {}
 
 for i, line in enumerate(lines):
+    if not line:
+        continue
+
     if '#' in line:
         # Ignore comments
         line = line[:line.find('#')]
