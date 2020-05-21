@@ -54,7 +54,7 @@ public class prob17 {
                 }
             }
             else{
-                System.out.print("City "+key+" is remote and has no neighbours");
+                System.out.print("City "+key+" is remote and has no neighbours!");
             }
             System.out.println();
         }

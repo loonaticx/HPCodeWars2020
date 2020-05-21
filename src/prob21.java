@@ -2,10 +2,6 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.lang.reflect.InvocationTargetException;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.TimeUnit;
 
 public class prob21 {
 

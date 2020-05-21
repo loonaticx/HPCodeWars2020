@@ -1,5 +1,3 @@
-import sun.applet.Main;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
